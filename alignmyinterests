@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+.accordion:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+</style>
+</head>
+<body>
+
+
+<button class="accordion">Full Video Transcript</button>
+<div class="panel">
+ 
+<p>In this class, we're gonna talk about your interests, which are the things that you want to do and how you can build your career in a way that is enabling you to do those things you want to be doing. So let's go ahead and jump in and talk about what the class is structured. Like the agenda's gonna cover as usual, our approach to how we think about it.</p>
+<p>And some of the frameworks that we're referencing and that we've created. Then we're gonna talk about interest and defining interests. We're gonna start to bring together the notion of interest and values and what matters to you then what those blockers might be, whether they're perceived or actual.</p>
+<p>And then as usual, we'll wrap up and give a little bit of a synthesis on the class. All right. So with that, let's go ahead and jump into the first section in this section. We're gonna talk a little bit about our approach to how we think about interests. Where it falls in the broader career exploration process.</p>
+<p>Again, we think about taking a pause in this career life cycle of explore search develop, which we think are these phases or states that you go through. And every time you're gonna make a big career decision. You're gonna wanna take this pause and explore whether it's for a promotion, a job, change, a job transition.</p>
+<p>And we always revisit our style and our values, our skills, and our interests, how those map to the career opportunities and occupation that we pursue and that it fits with us. We look at those options, we build the plan and then we go get it. All right. Again, this could happen. An hour. This could happen in a year.</p>
+<p>How long we take to think through these things are entirely up to us and our pace and what matters. But what we want to have happen is to have you working closer and closer to that work that is fulfilling and meaningful for you. and looking at our framework for fulfilling work in this class, we cover interests and where interest sits in the broader framework.</p>
+<p>So the intersection of interest and values are your passions and the intersections of interests and skills are energizers. That's those abilities that you have that you like doing. We all have these things that we know how to do, and that we're actually pretty good. But that we don't like doing them.</p>
+<p>And so those are drainers. And we'll talk about that in the skills class, but here, we're gonna talk about the intersection of the things we do and like doing and how those energizes. So at the intersection of our values and our interests is passion and passion is a tricky word when it comes to careers, cuz there's a lot of things out there that say, do what you love, pursue your passion.</p>
+<p>And we subscribe to a little bit more of the current thinking that passions are not a thing you pursue. They are things that surface and you discover through experience because our passions are somewhat informed by what we think we wanna do. And we really don't know until after, or at least the notion of what a passion can be as a kid.</p>
+<p>I see doctors on TV and I'm passionate about medicine, but until I do it. I really don't know. And we wanna be mindful about what's a hobby and what is something we really want to kinda have a commercial impact on our life and produ produce our livelihood. And so this notion of pursuing your passions is one we wanna be mindful of.</p>
+<p>That's not to say not to do it, but you wanna be mindful of a pursuit of passion in the absence of understanding like career fulfillment and all the components that come with a. and we really subscribe to Cal Newport's thinking, which he framed out in the incredible book. So good. They can't ignore you, which is passions.</p>
+<p>Come after you put in the hard work and you become really good at something and that you get value from that activity because we can have a passion for a craft, but until we get really good at it, Then it, then we can actually understand it as a passion. If you think about things like woodworking or singing or dancing until we get really good, it gets hard to then have that like compulsion to do it.</p>
+<p>And so this pursuit of a passion versus a discovery of passion, we think is a really powerful mindset. Could actually lead to higher senses of fulfillment because when you find it, it'll be really exciting versus this pursuit of this thing that you don't know what it is. And so our passions develop as a result of that patient and persistent effort that.</p>
+<p>Energy and time that goes into developing that craft. And when we achieve expertise and mastery, then we go more and more into it. And that's when it really becomes a passion. And so the main thesis being that we find it and discover rather than pursue, and really it's somewhere in the middle because we have to have that intentionality about something that excites us, but we will really feel that energy and that fulfillment.</p>
+<p>One we discovered. And it goes into that growth mindset, that the things that are hard and create struggle are opportunities for us to learn and grow. And so the ones that we can find that stretch us and make those career muscles burn are the ones that grow us. And then, we've referenced the growth mindset a few times in some of the classes.</p>
+<p>And that's where this comes together. Again, having that growth mindset towards your career and thinking about how opportunities create moments for you to. In this section, we're gonna talk our interests, the things that we're excited to do, we're motivated to do and bring us closer to that fulfilling work.</p>
+<p>So what is an interest let's go ahead and define it. They're the things that you enjoy professionally and personally, and that's an important distinction professionally and personally, cuz you're gonna have both of these interests, these domains, some of them are gonna be the ones that put food on your table and some are gonna be the ones.</p>
+<p>Charge you up from a personal development and learning perspective. So let's talk about how we think about those. Why we wanna focus on interest is that pursuing a career choice based on interest can lead to greater personal satisfaction and professional success. If. We do the work that we're good at and we're excited about, then that's gonna energize us, which is gonna mean we're probably gonna do a better job.</p>
+<p>We're gonna be that much more engaged and we're gonna bring our whole self to that work. And so it's really important that we do the work that we want to do, that we're leaning into those things that excite us. If we're doing work on a regular basis that we don't like doing, and that we're not interested in doing, that's gonna wear on us over time.</p>
+<p>Now that's not to say, you're not gonna do. That you don't enjoy. That's that just comes with working and being a good team player. But if it is disproportionately high, then we really wanna take a pause and think about it and say, what are those things that we are interested in and excited about doing?</p>
+<p>So let's talk a little bit about how we figure out what our true interests are. And there's lots of great frameworks for this. It's been a topic of research for many years from the early days of Frank Parson's work, thinking about vocations and people would be put through sort of tests and surveys to find what the right vocation for them was.</p>
+<p>Then you saw some of the work come from John Holland and a lot of this work was that industrial factory work. And thinking about what is the right kind of work for you? Should you be a mechanic should you be a plumber, should you be a doctor? Cause the idea would be that you had these kind of natural interests, then Peter Druck.</p>
+<p>In the nineties started to talk about knowledge work because the office started to the work, started to go from the factory to the office and it became a little bit more about that knowledge work and less. So the factory machine line work and expertise and thought beyond Sort of repetitive tactical work became important.</p>
+<p>And then you started to have this notion of the 10,000 hours and expertise, which was originated by Andrew Erickson and thinking about deliberate practice and these things that we want to do and how we become very intentional about how we do it. And then there's, the work from Daniel pink and Cal Newport, which is a bit more modern that is looking at our motivations and the things that we want to be doing this intrinsic motivation and expertise, and that we really get that fulfillment from our interests.</p>
+<p>We're doing this work that brings mastery. And that goes back to this idea. Our passions come from mastery and fulfillment instead of this pursuit of an idea of what we want to do. It's actually, when we feel it and touch it and do it, that we get really excited. And so what we advocate for is this understanding of a personal interest and a professional interest.</p>
+<p>And that's not to say that those. Two, can't be one, but you wanna be mindful of the pressure that's on those interests. And the distinction we make is that the personal interest replenish you when you're not working there are those things that energize you and give you that release from work. Because we need that.</p>
+<p>If we're working all the time, then we don't get that moment to pause and recharge and let our minds go into other places that professional work energizes you. But it's the thing that kind of gives you that commercial viability. It's how you make money. It's what puts food on the table. And it's what we do during the Workday.</p>
+<p>And the Workday is how you define it. That could be the weekends. That could be the nights, but the time that you're on the clock for yourself, Those two can be distinctly different. You have activities that you do professionally and activities that you do personally. For the longest time I wanted to be an artist and I wanted to draw and the idea of that needing to have commercial viability that I needed to charge for.</p>
+<p>It took away the excitement and the energy of that for me. And so I never really wanted that to. Professional interest. I wanted that to stay in the realm of personal interest. I explored it. I tried it and I didn't like the pressure that it put on it. But then there are things that I do day in and day out that I absolutely love like this career work and helping people grow their careers.</p>
+<p>It is a professional interest and it's also very much a personal interest. I read about it on the weekends, but I'm very excited for that to be the thing that put food on my table. And produces my paycheck and that I can have that deep passion about and, maybe one day. I'll have hit a point where I want art to be the thing that makes me money, but having that distinction is really powerful.</p>
+<p>And again, they can be one in the same. You see this a lot when people have a deep passion for craft and it becomes what they do, but the truth is they oftentimes will then add on another personal interest. The thing that gives in that little bit of a detachment so it gives our brain the time to rest and think and go into these other things, which ultimately then help us better at the thing that is our professional interest.</p>
+<p>So that's why we think about the two different and then how they can potentially be one and the same, but it's good to manage both. As you start to understand your interests, you wanna be mindful of how are they weaving into your work is the work that you are doing, allowing you to explore your interest, those natural curiosities, those abilities that you want to develop.</p>
+<p>And grow. And some you may already be good at, and you want to get to a level of mastery and some you want to explore for the first time. And so it's important that those are present in the work that you're doing. So you can feel that sense of growth. And sometimes we may not be super clear on what those interests are.</p>
+<p>And so we need to go back and think about the times that we took action, because we may have these perceived interests and we don't know why we may think that might be good for our career. We may feel some sense of external pressure on why we should do that which happens a lot with careers.</p>
+<p>Think about these times in your life that you had agency, you had control of your time and think about what you did, in these various stages as a child, a pre-teen a teenager, a young adult, or as a professional, what did you do with your free time? And then think about that. Was that something that you want to be your occupation?</p>
+<p>You want to be the thing that provides livelihood for. What were those classes you took in school when you had a choice to pick an elective? What did you pick? When you buy books to read on the nights and weekends, what are they? These non-fiction books that give us knowledge or these articles around these non-fiction topics, or even fiction, there may be some ideas there on themes that we're interested in and go through that process of thinking about, do we want that to be what we do day in and day out to earn our paycheck?</p>
+<p>And so when you think about it in your profession, think about which projects you've done that were most fulfilling. If you're in the midst of a career pivot, and you're thinking about what it is that you want to do, go back, every project you've ever done, I'm sure had moments that you were excited. It might have been 1% out of the 100, but think about those things that were exciting and fulfilling to you.</p>
+<p>And if they're not there, think about how, what just little tweaks you would've made. To make them exciting. This is where you want to go back and put on that growth mindset, how these challenges were opportunities for growth. And think about that you might wanna then think about in your previous jobs.</p>
+<p>What did you enjoy most? Was it interacting with the people? Was it times that you got to teach and mentor? Was it times that you got to put your head down and work on hard problems? Think about those moments that excited you energized you. And those are those passion and interests. That's when you can see what you were doing, you can discover them from past action, less.</p>
+<p>So from an idea of what you think passion and fulfillment looks like in the future, think about these moments that you were in flow times that you were working and you just got lost. You look at the clock and hours went by because you were so engrossed in your work, that it was able to put you in a sense of flow.</p>
+<p>And work that we're interested in is the kind of work that enables us to do that. So use those as moments to discover your peak interests as it relates to your work in this section. We're gonna talk about how your skills and your interests. Intersect. If you haven't watched the skills class yet, I recommend you go and watch that, cuz that's gonna bring these two together and it's gonna make some references to some of the work you might have done in that class.</p>
+<p>So with that, let's go ahead and jump in going back to the framework for fulfilling work. This is where we wanna bring all these things together. And in particular, right now we wanna talk about the intersection of skills and interests, those energizers. What are the things. That bring us energy, charge us up.</p>
+<p>And that's the work that's honestly easier for us to do. And so far, if you've done the classes in order, you should have your styles. These are the things that come easy to you. You should have thought about your values. What's important to your vision, your skills the things that energize you, and then those potentials for the things you could learning and doing, and then your interests, what you enjoy doing.</p>
+<p>So when you have those all together, you can now come over to this workbook that we're gonna walk through. The thing we're looking for is career fit. What is that work that aligns with our sense of fulfillment and what are those career opportunities that enable that for us? So let's talk through how we would go about doing that.</p>
+<p>You want to go back and look at the process and make sure that we've got our values, our interests. And now here is where we can start to explore what those career possibilities are. We can test them, iterate, analyze them, put together our plan. And then go ahead and find it and explore it. And that might be internally at the company we're working at.</p>
+<p>That might be in the context of a career pivot or a transition. But once we get clear on what we want to do and what those occupations are that fulfill us, then we're that much closer to the fulfilling work. What we wanna understand is our interests. What are those things that we're excited about?</p>
+<p>Categorically, cyber security, health, climate change, home decor, those are interests. These are these things we wanna pursue that we've discovered a passion for by getting to do some of it. Then what are those skills that energize us? And the energizers are the skills that we enjoy doing and that. Good at right.</p>
+<p>So there's these skills that we're good at and we want to do them. Those are the energizers. And so let's call it. Let's hear let's look at some examples here. I am wanting to do marketing. In this interest of cyber security. Okay you can do marketing in cyber security, or you can do marketing in healthcare, and I'm not gonna go ahead and read through all of these, but you get the idea of these skills, tactics, abilities that intersect with the interest.</p>
+<p>And if we can get to those career opportunities, then we are really working towards fulfilling work. So we've got this workbook that is really to help you. Map your interests and document career opportunities. So with that, let's go ahead and jump in and take a look. All right. So when you open up the interests workbook, you're gonna get this grid.</p>
+<p>That's gonna help you map out the things that you're excited about. Let's look at the one that's filled out and instead of filling this out from scratch. So if you go over to your tabs and you just go to example, you can see the one that's filled out. So you wanna start by looking at these prompts to help you identify your interests.</p>
+<p>What do you enjoy learning about what interests you outside of work? And you start to document those. And when you fill these out, that will fill in your interests for you over here. And then you wanna talk about those energizers. When you do the work from the skills class, you should have an understanding of the work that you want to do, and that you're good at.</p>
+<p>And those are those energizers. And when you document those, now those are gonna populate across the top. And what you wanna start to do is then say, okay, these are the ones that excite me. These are the ones that I wanna do. And we've got a series of potential occupations that sit at the intersection of these and can fill out for you.</p>
+<p>And so you can start to see what becomes possible when you list out these possible occupations. All right. So we recommend that you fill this out, use it to explore those potentials, that sit at the intersection of your interests and your energizers, and hopefully that'll help you explore some new potentials.</p>
+<p>All right. So with that, we'll go ahead and wrap up this section. In this section, we're gonna talk about blockers, cuz oftentimes we will tell ourselves we can't make these career changes. There are reasons we can't make this shift or we can't find that opportunity. That it's exciting for us. So what we're gonna do is talk through some of the tactics and techniques for how you can overcome that.</p>
+<p>So what is a blocker? A blocker is something that's getting in the way of you making your career shift. You might say to yourself, I don't have that experience for that. I haven't done it before. We wanna give you again, some tactics to unblock these blockers. And here's some examples of blockers. You might have a gap in knowledge, skill, or credential.</p>
+<p>Finances may not enable it. You may need to go learn things and they're not there. So your expenses are, you don't have the runway to make that change. Family needs go back and revisit your values. Look at what matters right now and see if there's ways, to unblock those economic conditions.</p>
+<p>The industry changed, right? Especially right now, when we're living in a time of COVID, there are industries that were completely affected by. You know what was going on in the world. And so that might be a blocker for why you can't pursue this career that you're really excited about. So that might be a temporary blocker, but we wanna be mindful of that.</p>
+<p>And then limiting beliefs, these things that we believe about ourselves to be true, but are probably not. And so we're gonna talk through those. Let's talk about filling in the gaps. It's important that you take a growth mindset. Anyone can learn anything. Sure. Some of us might have talents and things that we have a more natural disposition for, but with the growth mindset.</p>
+<p>And if it is something you want to learn and you're excited about, and you employ deliberate practice, you can get good at it. And let's talk through some ways that you can do that. You can fill those gaps through resources, books, podcast, blogs, websites, we're living in a time where more content that we could possibly imagine is available, but then there's people we can engage with people.</p>
+<p>We can go to industry events, conferences, there are more virtual conferences than ever right now, and it's become easier and less expensive to attend them. There's groups, communities, alumni networks, all sorts of very cool things that we can engage with and connect with to gain that know. And fill those gaps.</p>
+<p>You're also probably gonna need some more formal education. Also busting at the seams right now with opportunities to do that. LinkedIn learning or Linda is really good. You to me, I, you like once a month, they sell their classes for $9. You can do it. Corsa Khan academy, Udacity, and YouTube has an endless amount of resources for learning.</p>
+<p>And then obviously there's more formal education. There's all sorts of boot camps. Now for sales tech, these intensive programs with interesting income share agreement models, there's continuing education there's certification. And then of course there's the traditional degrees. So formal education might be a way that you fill the gap.</p>
+<p>And then a lot of times you might need that experience. And especially in the context of a career shift, people are gonna wanna see that you've done it before. The mindset you wanna bring is that one of investment in yourself and the way you are making that investment is with your time. So you may wanna volunteer.</p>
+<p>There's a really great platform called catch afi.org, where a lot of companies posts needs. It's usually nonprofits. And so they're very willing to take someone who has never done it before, but has the effort and energy and will give it a shot. And now that's a way for you to build those experiences, build a portfolio, add it to your resume and show proof that you've done that work.</p>
+<p>Other ways you can do it is you can write about it, talk about it, do your own work and do self-initiated projects, which will enable you to create that portfolio. What you want to be clear on is that you have control. A lot of times in these situations, we will feel out of control. We feel like we don't have that.</p>
+<p>We're being told, but you can, if you think about those things that you want and you get deliberate about those abilities that you need to have, and those gaps you need to fill and systematically line them up and knock 'em. You can absolutely take control of it and get to that career that you're excited about.</p>
+<p>There are people that make career shift and career transitions every day. There are people that have been in the teal community that have made 10 career transitions and they do it and they become quite systematic about it. And so you wanna get rid of those limiting beliefs and what is limiting belief.</p>
+<p>It's something you believe to be true that gets in your way of making progress. And we all have them. And what we need to try to do is shed them from our thought process. Let's look at some examples, right? And different kinds of limit limiting beliefs. You have a belief about yourself? I'm not smart enough.</p>
+<p>I don't have the skills to do it. I'm too old to do it. There are people every day, busting those beliefs, or there might be beliefs about others. People are too busy to help me with this. People will think I'm crazy for making a career change right now. It. Matter. Obviously those pressures are real and they're intense and we don't in any way mean to trivialize them.</p>
+<p>But think about what it means to come out on the other end of this having work that is fulfilling, exciting, energizing. That's what we're after here. There's no need to have that work every day that drains you and does not excite you. We want to help you get to that place of having your work be a source.</p>
+<p>Energy instead of draining you. And then there might these be these beliefs about the world. It's impossible to get a job in X right now without any connections or it's too hard to get experience. Again, they can be done. You might have to do it incrementally. It may not happen at the pace that you wanted to, cuz we all have different kinds of pressure, but we want to be mindful of these things that we're telling ourselves that are blocking us from making progress and you wanna get.</p>
+<p>You wanna get out of this cycle of limiting belief, which then prevents us from taking no action, which then is no change. And we get stuck and we have a little bit of this self-fulfilling prophecy of the belief, which means we don't do it, which means we see no change. And really what you wanna do is you wanna break the cycle.</p>
+<p>You wanna reframe that limiting belief, embrace that growth mindset. Start to challenge that behavior and take action and see those results. So I don't have the experience volunteer, build that portfolio, take that action. Now you can talk about it and little by little, you can make that progress and see those results.</p>
+<p>So let's look at some examples here, limiting belief. I don't have the skillset or the experience needed to make a career shift. Here are some strategies to change that belief, review your list of experiences and skills that you have acquired and identify the gaps that you need to fill. Now you can learn what it is you need to learn.</p>
+<p>I can learn whatever I need to know to fill my skills and experience gaps, to move into a job that I. All right. So think about how you reframe them, take these limiting beliefs, these problems, and convert 'em into challenges and opportunities for growth. Think about them as objectives rather than blockers.</p>
+<p>And the more you can do that with each limiting belief, the more you can open up your potential and move progress towards doing that fulfilling work that excites. You can unlearn what is untrue? These limiting beliefs are in your mind. The majority of them can be broken. There are people that do incredible feeds on a daily basis when they set their mind to it and they can make that incremental process.</p>
+<p>So if these limiting beliefs are there, you can unlearn them, make that progress and break that cycle of being.</p>
+<p>In the workbook that we've created for the interests, there's a separate tab to help you document your limiting beliefs. The blockers and the strategies that you can take to get past them. It's a really simple spreadsheet. It looks just like this, it just frames it in these side by side. So you can document the blocker and document the strategy just with a few prompts.</p>
+<p>So I'm not gonna open it up cause it's pretty straightforward. But as usual, if you have any questions, post 'em and career counsel, and we can help. , talk through them and make the progress you need to make. All right. So with that, we'll wrap up the section and go to the next one.</p>
+<p>Okay. So that does it for the class on interests. And what's important is you identify those things that have charged you up and excited you as you've done the work. And those are gonna be the passions, instead of this kind of uninformed belief in this work that will energize us. Take a retrospective process and think about the times you've done things that excited you.</p>
+<p>And those are the ones that we wanna pursue, cuz it's those actions, not those words and thoughts that actually move us closer to fulfillment. So that's what we covered in the class. Go ahead and do the tools see if these things help you get a little closer to an understanding of what it is that you're interested in, which will then inform and UN unlock the career opportunities that you could.</p>
+<p>So with that, thanks so much for attending the class and we'll wrap up there.</p>
+</div>
+
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+</body>
+</html>
