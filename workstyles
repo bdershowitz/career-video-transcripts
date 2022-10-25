@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+.accordion:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+</style>
+</head>
+<body>
+
+
+<button class="accordion">Full Video Transcript</button>
+<div class="panel">
+<p>In this class, we're going to talk about understanding your work style. Without having a deep understanding of who you are and how others perceive you, you're not going to be able to really figure out what you want to do and where you want to go, which is going to impede your ability to figure out what's next and to go out and get that faster.</p>
+<p>We’ll go over how to build self-awareness some of the frameworks that we've leveraged and the way that we think about it, and some of the psychological concepts behind self-awareness, then we're going to talk about work styles in particular and how to understand them, and some of the work that's gone into developing the framework.</p>
+<p>We want to focus on this notion of conscious awareness and unconscious awareness. Those are the two big buckets—what are we really clear on and understand about ourselves, and what we're really unclear about—our blind spots where we just don't see the full picture.</p>
+<p>There's a really powerful concept called the Jahari window, which what it focuses on is these two dimensions of what's known to us.</p>
+<p>What's not known to us. What's known to others and what's not known to others. And when you do that as a simple two by two, you get this framework to understand yourself. And so at the top left, there's the public self, what others know about us and what we know about ourselves. And that's a high match and that's where we can be in.</p>
+<p>Pretty high energy state of mind, then over to the right. And the top is our blind spots. [00:02:00] And these are what we really want to focus on. Are these things that we're unaware of, but others see it, right? And then the workplace that's particularly important. Cuz the more we can be clear on these blind spots, the more we can understand how people see us and the kind of work they might give us to do and what they might trust us with.</p>
+<p>Then there's the lower. known to us and unknown to others, and those are the things we wanna keep. And those things that are important that we're not ready to share and have the world know about us that said the less of those, you have the less energy it takes to keep those. And then there's a whole world of discovery to things for us to figure out about ourselves that we just don't know yet.
+And that's, obviously a lot of fun to work through. But the goal is to really maximize that public self. The more we need to maintain separate identities, the more draining it is on us. So the goal is to increase that proportion of public self, who we show up in the world as, and who we under our understand ourselves to be.</p>
+<p>We want those to be one and the same, because the more we need to manage those [00:03:00] multiple identities and maintain all those things that we don't want the world to see. And. Have that it's not necessarily less authentic in the world, but needing to manage all that information up here, it drains us and we can't bring our whole self.</p>
+<p>And the more we can bring our whole and authentic self to work with an understanding of what matters to us, what energizes us, what drains us, the higher likelihood we're gonna be successful. And that's why we say the first step in career growth is becoming self. Having that understanding of self, knowing whether you're a person that's a better brainstormer or a better implementer, or if you're a person who, rather be doing the work or rather be doing the brainstorming again, we can all do all things, but the more we can understand certain environments energize us and that we naturally gravitate towards them, the higher chances of us being successful in our work.</p>
+<p>So the first step in career growth is becoming self-aware and that's what we're gonna focus on in this.</p>
+<p>In this section, we're gonna talk about understanding work style and the history of work style and where they come. So you've probably heard of some of these other behavioral assessments or psychological assessments.</p>
+<p>Our work style really falls in a behavioral assessment category. It's not a clinical framework. It's about understanding how you show up at work. And we're really focused on the work context, obviously, psychology and personality. Is a very broad and deep topic. We're really focused on behavior at work.</p>
+<p>And there's lots of other frameworks that have been used. A lot of 'em actually derived from very similar things, but you've probably heard of Myers Briggs, disc colors. HEXACO Enneagrams incredibly popular, big five Hogan. They're all really wonderful and they're all as good as you allow them to be. What, and we feel that they all give you a structured framework for semantics for understanding yourself and others.</p>
+<p>And I like to think of it as systematically building empathy. I, if I can have a language to understand myself and others have used that same language, then we can accelerate the ability to work together, but it really starts with that understanding of self. And so that's really what we wanna focus. Our platform the teal works out really originates from the four temperaments, or what would we called?</p>
+<p>A two factor model. It's a two by two that we're gonna talk about in a little bit. And a lot of these frameworks have the same kind of underpinnings, which comes back from Hippocrates when he wrote about the four humors and he tied it to these four ways of being. Which basically means this is 2,400 years old and there's been a ton of evolution on it and a lot of work and a lot of content creation.</p>
+<p>But when you look at the core writings from the four humorous to the four temperaments to Young's personality types, they all go back to these sort of four main buckets. And there's been a lot of work to now bring, to add more resolution to it in a, in the early nineties Wiley and Pamela Cole did a lot of work to break it up into 16, but still using those four primary categories.</p>
+<p>And so what we've done is we've built on this 2,400 year old framework of the two factor model or what might be called the four temperament model. To build up the teal work style and added some layers that we think just make it a little bit easier to work with. And a little bit of how we think we, we show up in the world.</p>
+<p>And so the teal work style is really focused on, some of that original disc work from from William Marsten who wrote the book in the twenties and brought this new layer of thought to it and the four temperaments. And we believe we're all styles. We. It's just how we show up and of how we go through them and which style most presents itself.</p>
+<p>In a moment, we do think we have a psychological home and what our default is and certain situations might change that. And what that's gonna tell us is there's gonna be things that energize us and things that drain us, and there's gonna be some things that really come easy to us, and there's gonna be some things that take a little more effort.</p>
+<p>And so the more that we can be aware of those. We can then equip ourselves to handle those situations. And that's why we think self-awareness is . So when you look at the teal sequence, it's broken up into these four primary styles. And again, the four temperaments have it. Disc has it, a lot of them break up into these four categories.</p>
+<p>They might do it by color. We've stripped out the primary word because we think that's too quickly jumps to a conclusion, but obviously there's words and language that describe each one. So our oneness is where that power and that challenging comes from it's that directness. Our twoness is that like high people, orientation, interaction, communication, inspiring others that threeness.</p>
+<p>Is, why this calls it stable or stability or steadiness and that's where collaboration, teamwork, inclusion, putting in structure. And then that foreignness is where that data ness systems analysis, high quality. Again, we all have these, but what we believe is that we have a primary, secondary tertiary and a QUT area, which is last and that we go through them in that order.</p>
+<p>In certain contexts, they will shift around a and so that's why we've gone with this numerical sequence to understand it and codify it. So to talk about how the work style goes together, they're actually a series of polarities and they're opposite to each other. And we like to present it as a numerical sequence, but we think it's important that when you understand the framework, you see how it comes together.</p>
+<p>It they're drawn in this order for a very specific reason. 1, 2, 3, 4. So when you draw a line across one in two, what is that the one in two traits tend to be the think to talk big picture, fast paced paste, the three and four tend to be the finishing qualities steady paste. Think to. More detail oriented, right?</p>
+<p>I, myself, I'm a talk to thinker, I think out loud, but I know that there's some people that think to talk and it takes 'em a minute. And so given that I use this framework, I try to be mindful of that, of when I'm interacting with others. But when I'm also with a. Talk to thinker. We can go real fast and bat around ideas and understand that all of them are quite loose and we're just thinking out loud.</p>
+<p>And so having that understanding of self and that self-awareness, especially when engaging with others is really important. And when you're looking at these, what you wanna think about is think about yourself, do you take a beat and pause before you rattle things off or do you just, use your voice and your.</p>
+<p>Your ability to speak as a time to process. And so think about that for yourself. Obviously the assessment tries to help you figure out your style, but at the end of the day that's just a tool to try to help you get there. What we really want you to do is understand your style on your own and not need the test.</p>
+<p>So as you're looking at this, think to your. Am I more of a starter finisher again, we're all, both. It's just which one do we get more energy from? Or another way to think about it is I'm a person who thinks to talk or talks to think. We really like that as a quick way, to put ourselves in one and it can be 51%, one 49%.</p>
+<p>The other, yeah, we really prefer that. You try not to say, Hey, I'm 50 50. I can do both. But that is the case. All right. When we split down the other way, and this is why it's called a two factor model. This is this other polarity in the framework. So if you are a one four, you tend to be more results oriented, right?</p>
+<p>You, when you take on work, you prioritize the results and the work. If you're on the two, three side, you'll tend to prioritize the people and the connect. It's important here that all of us are both. It's, there's just an order in which we do them. Which one do we do first? Other times that you will see this really come to fruition is when you're interviewing, when you're being interviewed by someone, are they trying to get to understand you as a person?</p>
+<p>What you did on the weekends, your family, where you came from that person. As a high likelihood that they're in that two, three side, or if the person's trying to understand your credentials, your accomplishments, what you've done, there's a high likelihood they're on that one, four. So flipping that around and looking at yourself.</p>
+<p>Think about when you connect with people, when you first come in contact with them, are you trying to get to know them as people, or are you trying to get to know what they know their credentials? Again, think about this in a work setting. Obviously if you're like in a family gathering or a barbecue on the weekend, you might take a different approach, but in a work setting, think about times that maybe you've interviewed someone.</p>
+<p>when you're first getting to meet people in the workplace, what do you go like straight to the work? Or do you like go straight to the weekend? And that might tell you something, about how you build connection. So once we do that, we have the two factors altogether on the map. So the one twos tend to be the starters.</p>
+<p>The three fours tend to be the finishers. Again, they get more energy from it. We can all do everything. Speaking for myself, I think I'm square in the starter category. I can finish things and I'm actually, I think I'm pretty good at finishing. But I have to do a lot of things to make sure that I stay focused.</p>
+<p>I have to, cut off all the sound and it's really draining for me to get to that final 20%. But I know I can do it again. We can all do these things. It's just, which one drains us and which ones energizes us. When I'm in a brainstorming meeting around ideation and talking, I get really excited and I leave incredibly energized after situations.</p>
+<p>right then the two, three people orientation, one for results orientation. So when you start to put those together, ones are starters focused on results. Twos are starters focused on people. Threes are finishers focused on people and fours are finishers focused on results. And that is. Those are the attributes of that style.</p>
+<p>And that's why we really like the sequence again. We're all of them, it's just in which order do we go through them? So in my case, I'm a 2, 1 43, right? Again, I'm all of them, but I start in that starter people zone and then I actually go to start results. So that's why we like the sequence, cuz it allows us to talk about how we're all of them that we just naturally progress through them in a certain way.</p>
+<p>So those one. That oneness, we call it cuz these are really like attributes. They seek to shape the environment, use that direct action, overcome opposition by getting results that twoness seeks to shape the environment by using influence and persuading and using our voice and getting people to like us.</p>
+<p>That threeness seeks to be cooperative supportive and agreeable, and bring people together, that's that threeness in us. And then the foreignness is seeks to work conscientiously, there's that high conscientiousness in the four with existing circumstances and really use systems and framework.</p>
+<p>And get things done that way. Again, I can't stress enough that we're all styles. It's just which we go through, how we go through them. And that's what we think about that primary, secondary tertiary, and last. All right. So a few more traits on the each primary style or each style, I won't read through these all, cuz the deck is there below and you can download it as a PDF or you can pause the video, so no need to do that.</p>
+<p>But that oneness things that come easier, direct communication leading with a sense of urgency things that might take a little more effort are making space for others, kinda slowing things down. And so if you're a primary. Those are like some of the things you want to think about, you might tend to be very direct.</p>
+<p>And sometimes it might be a little harder to slow things down and take others into account cause you really wanna get that work done. And then after the fact you can bring it all together. Twos, tend to be that inspiring impressionable interactive. So what comes easy is building relationships and connecting with people and wanting to say yes to every meeting.</p>
+<p>What takes effort is that focused attention, listening with detail and not just zipping to the next. , in my case, I'm a two one. So that means I'm all go all the time and I really need to be mindful of that. Then the three is that supportive? Stable, right? So the patience comes from the three.</p>
+<p>My last trait is three, and I know that about myself. I have the least amount of patience. I wanna go fast all the time. But playing a supporting role on teams. Those are things that come from the three. What might take effort from that threeness is being assertive, being confrontational that threeness in us.</p>
+<p>Doesn't really like those things, but sometimes we might need to do that. So we need to be aware if that's just something that we naturally gravitate. Away from. And then that foreignness brings that cautiousness that calculating that systematic thinking. So what comes easy is being very analytical really liking to understand a lot of information before we make decisions, making really good and thoughtful decisions.</p>
+<p>But the inverse of that, what might take effort is to operate from a place of gut and operate at pace. And sometimes certain environments may require that of us. Read through all these details. It's in the. That you get and and you can go deeper on it. So the last part we want to bring in is the sequence.</p>
+<p>So that was a kind of deep dive in each style on its. , but what is particularly different about the teal work style is that we incorporate this notion of a sequence. And when you get your results, you'll see that you get a sequence. So in my case, I'm a 2, 1 43, but if your results were a 2, 1, 3, 4, this is how you navigate through the space.</p>
+<p>You start at two with that people starting, then you go to that people results. Then you go to that, people finish, and then you go to that results finish. And this pattern really tells us a lot and where it really becomes powerful is when you start to style others and understand how they operate. But we think it's one of the most exciting things about the sequence.</p>
+<p>And so when you look at that pattern this way, this 2, 1 43, right? If you look at the first polarity, this pattern is a start, start, finish. That means that this person would be all go all the time, all offense, less defense, all starting harder to finish. And so that pattern tells us a lot. Then if you look at the second polarity, this person is people results, people.</p>
+<p>And so they start with being in a place of people, orientation. But then they're pretty comfortable living in that results space. A and so this pattern really tells us a lot. And you'll see that on your report is it'll show you your pattern and where this becomes incredibly powerful as when we start to style.</p>
+<p>Others. We'll be able to very quickly say, okay, we think we're there primarily this secondarily, this, okay. We see that their pattern is, and what you're looking for is are they a start or a start finish, right? That in and of itself will tell you a lot. If someone's got the same polarity twice in a row.</p>
+<p>That's gonna be a very strong trait for them. And so this is what you think about when you start to build teams, but more importantly, when you think about yourself, right? Does it take me time to finish? So if my role is one of operations and a lot of detail orientation, if I've got that high finishing, that means I'm gonna be pretty charged up by that stuff.</p>
+<p>If I'm that high start, start, then I need to be in an area of ideation. I get excited by a blank canvas, and those are things to think. As you look at your work style and as you take the test multiple times, and then we'll talk a little bit about how you get results from others to see how they see you.</p>
+<p>So that's a, an in-depth overview of work styles. And would that we'll go into some of the tools we have in this section.</p>
+<p>We want to talk about the toolkit that you have to understand your work style. So you've got the work style report It's got a few sections to it when you take it. So you go through a very simple 16 te question, test or assessment, and it'll give you the results.</p>
+<p>And again, these results, it's important that we stress. This is not what you are, right? You took this test. There's a reason we allow you to take it multiple times. It's how you felt in the moment it can change. There's probably some that you answer very consistently and some that you might change given the context and.</p>
+<p>ultimately, we really want you to understand the framework and you. You do those polarities? Am I, do I get more energized from starting or do I get more energized from finishing? Do I have more of a people orientation or a results orientation? So you decide the tool is just there to help you do it and help you think about it.</p>
+<p>But at the end of the day, you decide what you are and what we really wanna focus on is you having a language and a semantic structure to think about how you show up in the world. So the report's gonna have a section around career insights, the things that come easy. And in particular, when you're thinking about career opportu, we have a section that particularly focuses on that.</p>
+<p>Again, we cannot stress that you are the authority on you like this. A lot of times we see the test said I was this, the test is a device to help you figure it out. We want you to take it multiple times, but more important is that you understand the framework. We have a deep belief in the framework.</p>
+<p>It's a 2,400 year old F. , there's a lot of interpretation on words and language. And if you see one of the words in the in the assessment and, you interpret it different than what we intended for. So what's most important is that you understand who you are and you understand what you are energized by what you are drained by and the instructions and the guidance that is gonna really, align to the style.</p>
+<p>And so that's why the test it's gotta. Pretty high accuracy from a lot of the people that take it. They feel really good about it. But again, you are the authority on you and we can't stress that enough. Next you have the 360, which is a really fun way to understand how others see you. And, some people get the same exact results from their aggregate 360, but it's incredibly rare actually.</p>
+<p>And hardly ever have we seen someone get the exact same word distribution, so they might get the same sequence from someone else that does it on their behalf, but hardly ever do they get the exact same word pairing? So the goal here is to send out the survey. on your behalf, two others send it to coworkers, send it to friends, send it to family.</p>
+<p>And anyone else that you might see, because then you're gonna get a sense of how they see you and how they perceive you. And you're gonna get a really understanding of how the world thinks you show up. And that might be those blind spots. Now it might be interpretation of language. Maybe they interpret one of these words in a different way than you do, but you know what that makes for a great discuss.</p>
+<p>Then you can engage with that person and you can say, Hey, what were you thinking here? Or that time that I showed up, or how could I get some feedback on this? And the good thing is that this isn't critical. It is just an understanding of your behavior. It's not feedback in a negative way. So it really helps you build that self-awareness and you can get, tons of feedback, NCA.</p>
+<p>And in what context you show up in you. In my case, my family mostly styled me as a primary. my coworkers, those that work with me intimately, have seen that I'm a primary too. Folks that see me just operating, like running the company really put me in that primary one. And again, honestly, I might need to go through a journey of self-reflection and say, Hey wait, do I really think I'm a primary one?</p>
+<p>Again, that's ultimately for you to decide. And we feel deeply that it can change over time. Life situations might, my tolerance for risk is much lower now that I've got two kids than it was when I was in my early twenties. And so those are things for us to process and understand about ourselves these three sixties really go a long way in being able to do that.</p>
+<p>And then in the tool section, there's a work styles analysis worksheet. It allows you to plug in your numbers and start to type in some of your learnings and use this. So it's a way for you to synthesize it and take a little bit more action on what you're doing with this information. So we recommend that you go over to the tool section of the platform, check it out and fill it out and manage it for yourself.</p>
+<p>All right. So that's what we've got on work styles. We've got a ton of other classes on the topic. We're gonna talk about how to find your right environment how job matching might work how to work with others and how to style others and tr and show up in a way that makes them comfortable.</p>
+<p>We aren't big believers in the golden rule of treat others the way you wanna be treated. Cuz I have pretty high extroversion and if I treat someone with pretty high, I introversion how I want to. I'm probably gonna stress them out. So one of the things we wanna focus on is leveraging these tools to better communicate.</p>
+<p>And those are gonna be some of the other things we see, but really going on that journey of self-awareness and understanding who you are and how you show up in the world is first and foremost for everything around career growth. And we're really excited that you're here and going on that journey.</p>
+</div>
+
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+</body>
+</html>
