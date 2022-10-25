@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+.accordion:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+</style>
+</head>
+<body>
+
+
+<button class="accordion">Full Video Transcript</button>
+<div class="panel">
+<p>In this class, we're gonna talk about how to determine your values and your motivation, cuz so much of what enables you to have a fulfilling career is making sure that the work you're doing is aligned with your personal values and the things that motivate you. So let me talk you through the agenda for this class.</p>
+<p>In this class, we're gonna talk about our approach and some of the things that we think about and the frameworks that teal uses to think about this category. And then we're gonna talk about values specifically, how to determine your values and a framework for thinking about values, then your motivations, what are those things that drive you and then a vision working on using your values and your motivations to define a vision of where you want to go.</p>
+<p>And then with that, we'll wrap up. So with that, let's go ahead and jump into the first. In this section, we're gonna talk about Teal’s approach to thinking about your values and motivation. It all is about that moment in time, where you take a pause, take a beat and think about your career. And this might be for something as big as a career pivot and a full on transition to a new occupation, a new industry, or it might be where you take a beat and think about your next position and a promotion.</p>
+<p>And. Pausing and thinking about career exploration is a really important part in the career life cycle of exploring, searching, and developing. So the way we think about it is you revisit your style and your values, and you think about what matters to you. Then you get clear on your skills and interests, and you make sure that those things are aligned.</p>
+<p>Then you do that exploratory phase of thinking about what's possible. Then you analyze those abilities. Plan and go get it. All right. So that's how we think about this phase of exploration. Again, it could be five minutes. It could be five months, but that pause that you take to think about what you wanna do that ladders up to our framework for fulfilling work, which really sits at the intersection of your style, your values.</p>
+<p>Your interests and your skills. And if you can really sit at the middle of those, then you could really be doing work that fills you up, energizes you and gets you to that path of doing fulfilling work. And for the values, we really break it up into these three components that sit at the intersection of those, that Venn diagram.</p>
+<p>It's your values, identifying those things that matter to you that are intrinsic to you, then the motivations, the why, what are you. Pushing towards what's that purpose and then the vision, the direction, where are you going? And you're gonna revisit this all the time. A lot of the career work is, putting these things down and making it feel like it's forever.</p>
+<p>We really think it's about an agile process and treating yourself like an agile development process. These things are gonna change. What matters to you when you're just getting outta school to when you're in the middle of your career towards when you're the end of your career, these things are gonna change.</p>
+<p>And what we wanna do is give you a framework for thinking about these things. So you can revisit them on an interval that's valuable to you. We're gonna be using this values workbook, and I'm not gonna jump into it right now, but you may wanna pull it up in the platform, go over to the tool section and look for the values workbook because in each section we will be revisiting it and adding to it.</p>
+<p>We'll explore it in detail in the first section of the class. All right. So with that, let's go ahead and jump into the. In this section, we're gonna talk about values, how you identify your values, some of the ways to think about them, how you categorize them and then how you document them and continue to iterate.</p>
+<p>So with that, let's go ahead and jump in first, let's define what a value is. Value are the key drivers that motivate you and define what is most important to you in work and life. These are important to us now. It's. Important to state that they can change. Speaking about myself, the values I had when I was in my early twenties, just thinking about my career are very different than the values I have today with two kids and thinking about my family.</p>
+<p>And that is absolutely okay. There are some that are truly intrinsic and core to who I am. And as I revisit those over time, those don't change that much, but then there are others that might and that's okay. And what we really want you to do is to get into the pattern and rhythm. Revisiting your values.</p>
+<p>So you can always be moving your career closer and closer to what those values are in the moment. And why values matter is because they really affect your fulfillment. If you are doing work that does not align with your values at the time, it will drain you and the work will not be fulfilling, but then the opposite is true.</p>
+<p>If the work and the company you're. Align with your personal and professional values, then that's gonna charge you up. That's gonna be the kind of work that you jump out of bed for and you wanna do so the greater that distance between your values and the company values, the more energy you're gonna have to spend.</p>
+<p>To try to make that work exciting. The closer they are, the more it'll come natural. So it's really important that you try to align your values with the company values and the values of the role, and what's expected of you and the work that you're doing on a day in and day out basis. And values help you create boundaries and a benchmark for your career decisions.</p>
+<p>Cause what happens is if we are trying to consider everything every time we make a career decision that becomes incredibly overwhelming and every decision has a tremendous amount of magnitude. But if you can document your values, then you can pass every career decision. Through those values. If you get clear on your values for income then you can start to have some ideas on, is that what you're prioritizing at the moment, or are you thinking about long term income or work life balance or, maybe now's the time where that's low on your values, priorities and you can actually, do a little bit more work or sacrifice a little balance.</p>
+<p>Again, these things can change and over the course of your life and your career, they're going to change. But if you've got them documented, It doesn't make it as heavy every time you have to think about one of these decisions and as if you are starting from scratch, that's why we really recommend that you go through this process of documenting and understanding your values before you embark on major career decisions.</p>
+<p>So let's talk about how those values you start to come together and how you think about them. . Framework. We really like to help discern your values. Cause the values are deep in there and we all know them, but sometimes we don't document them explicitly. So valuable exercise is to think about what are things you're running away from, which honestly is sometimes a little easier and what are the things you're running towards and that's where we want to get.</p>
+<p>Cause when we're running away from something it's really about a reaction to a negative, it's something we don't want to do anymore. And where we go. might not get us to what we want to be doing. We might still find ourselves doing what we don't wanna do. So it's just another thing we wanna RA want to run away from versus having a destination.</p>
+<p>So when you go through this exercise of thinking about what are things you want to do, less of it might be more productive, but ultimately we wanna figure out what we're running towards. So if we think about things we wanna do less of or running. From it's, I don't wanna work nights and weekends.</p>
+<p>I don't want my paycheck to be a surprise. Maybe you're on variable compensation. You want to know what it is in a steady way. I don't wanna work in a corporate office. I wanna work in a more start to be exciting environment. Those are things that you don't want. Then they may help you understand if you spend time thinking about them, what you do want to do, which is what you want to run towards, which is really our goal.</p>
+<p>So then you start to document what you want to do more of. I want to be able to work from home. I wanna be able to be on cross-functional teams. I wanna work on something with impact, right? These are now telling you things that you want to do. These are some intentionality about a future that you're excited about.</p>
+<p>And so we would say those are things you're running towards and want to do more. Once you have them all documented, you run away froms and you run towards, you could start to figure out patterns of things that are coming up on both of those. So you might say these have to do with work life balance.</p>
+<p>These are about having a purpose and a meaning in my work. These are about my identity and how I am perceived in the world and how I derive value. And what you want to start to do is identify these themes. And we're gonna give you six themes that you can work in, but you can also add your own, right?</p>
+<p>This is to really help the process. We've done a lot of thinking on ways to cluster these and see these as these six core values for your career. But again, think about things that matter to you. If we missed. Go ahead and add it. If there's one that's really important to you and it needs to be broken up into two that's.</p>
+<p>Okay. Also what you want is a framework for you to think about your values in a structured way. And these are the six that we have the environment, and we don't mean the environment in terms of the office, but think about the culture that you're a part of, the surrounding and the context that you're in.</p>
+<p>And it's one that you feel like you can flourish in. Then relationships are absolutely critical. To a healthy career, because that is career capital. Those relationships are things you're gonna be able to leverage in the future. Gonna get introductions are gonna help you grow. So you're gonna think about the relationships and your need and your value for relationships, then identity, right?</p>
+<p>Your status recognition expertise. Some of us have a higher importance for that than others. And that. Absolutely. Okay. And what's important is that we recognize it and that we own it so that we can pursue it with purpose then income, we're not in a world where we can't make money. And so some of us may have higher or lesser concerns for money at different moments in our life.</p>
+<p>So you want to prioritize that, is it at the top of the list or the bottom of the list then balance right. Balance is about, really about control. And it's not about a 50 50. It's about. Feeling like you have control of your time and that you can balance it in a way that is relative to you, if you wanna be working all the time.</p>
+<p>And that feels good. That's great. If you wanna be able to do whatever you want when you want, you're gonna want to think about what is that balance for you. Cause balance is relative. So it's about giving you that time and that control and your ability to focus. On the things that you want to be focusing on and then purpose what's the reason for your work does the work that you do have to align with something bigger than yourself with your impact with experiences.</p>
+<p>And if that's important, you're gonna want to be clear on that because you're gonna wanna look for opportunities that allow you to grow that. All right. So these are six categories of values. Again, you can add your own. We generally think they fall into these six buckets but go, go ahead and feel free to add your own and start to do the exercise.</p>
+<p>So let's walk through how the worksheet operates. We've got this teal values workbook. And what it's meant to do is to help you discern and document these values. So you don't have to keep them all up here. So let's go ahead and jump into. So this workbook is in a Google sheet. You're just gonna go over here at a copy tool and make a version of your own.</p>
+<p>And then from there you can download it to Excel. If that's something you're more comfortable with or Excel numbers, any tool it's really just a simple spreadsheet with a lot of formulas and prepopulated list. So this is the blank one to save us some time, I'll jump over to the values example.</p>
+<p>So you can see, and what you've got here is a list of more granular values. That you can start to pick from. And obviously you can add your own if there's any, we missed, there's lots of great lists of values out there. And what you're gonna do is go in and categorize them as, or prioritize them.</p>
+<p>Let's say as important, neutral, not important. And there's no judgment here. It's what matters to you. And again, this can change. You might wanna revisit it on a monthly, quarterly, yearly basis. And what it's gonna do is gonna pull out those things that are not important to you right now, the things that.</p>
+<p>Kind of neutral on and the things that are important, it's gonna populate this list with. And then what we're gonna ask you to do is rank your top five. And so all you're gonna do is pick here and do one through five and do the top five. That'll then give you your top values and with the other sheets in the workbook, we can build on that and do other things which we'll talk about in a minute, but this is a way for you to start to document your values and categorize those things that are important to you.</p>
+<p>All right. So with that's the workbook and we'll jump back over to the present. Okay. So that's our section on values. If you have any questions, we can obviously talk about it in the career council or you can hit us up on slack, but with that, we'll go ahead and jump over to the next section.</p>
+<p>in this section, we're gonna talk about motivation. And what we mean by motivation is why do I do this? What are these things that push me to do this work and motivations are the forces or influences that cause us to take action or to act or do something. And so what do those. Internal forces and that energy that's pushing us to do things cuz when we're not motivated, then we become incredibly drained.</p>
+<p>We need to find motivation in some way. And the more that it's intrinsic and it's the things that we naturally want to do, the easier it's gonna come and higher likelihood we're gonna be successful at it because we're gonna enjoy it and it's gonna come natural and we're gonna. The thing about motivation is sometimes it's not obvious to us.</p>
+<p>It's very deep in there and it's there for sure, because we don't just take action by accident, but it may not be as obvious. And there's this great framework. That's come out of lean manufacturing and Toyota's production system, which is called the five whys. And it's really about getting to the reason to, to the core.</p>
+<p>Cause for why we want to do things. So we've taken a version of that and co-opted it a little bit to help us figure out our motivations. And what we do is we use our values to do that. So we go to a value, which we know on the surface and we put it through three wise instead of five, if you wanna go five, that's great.</p>
+<p>But sometimes for these things that are a little softer and a little more femoral is hard to get deep into it. So what we want you to do is think about a value. Impact and think about why do I want impact it's cuz I wanna do something meaningful and why do I wanna do something meaningful?</p>
+<p>Because I wanna make a difference in people's lives that matters to me. And then why do I want make a difference in people's lives? It's cuz I enjoy mentoring people to improve their lives. And so what's my motivation is I wanna be a role model for others. Now I've got a motivation and I can use that for while as a guiding light for when I make career decisions and the roles that I'm after.</p>
+<p>And the reason we like this is cause it's more about an intentionality. A lot of times, what we see is people will focus on a tactic. Like I need to be a VP. They achieve VP and they're still UN. Because they're not getting to those intention realities, which is, this VP role is not one where I get to mentor and lead people and be a role model.</p>
+<p>It's one where I'm back a house, running all the operations and and it's not fulfilling. Neither is better or worse, but what's important is to know which one's aligned with your values and your motivations. So you can be energized and excited about the work you. so going back to the workbook, you can then use your values to start to document your why for each one.</p>
+<p>So let's pop over to the workbook and see what that looks. So once you're back in the workbook, there's two tabs, there's the values and the vision. And when you go over to the vision, I'll go to the example. You'll see that the values have been filled out for you each of your top five. And we've got these three whys, which are blank in the template, and you can go through that process.</p>
+<p>And then the next section, we'll talk about the vision and we'll come back to the workbook. But if you have your. motivations and these whys, then it's gonna really help us think about how we declare that vision for what we want to do with our career. All right. So with that, we'll wrap up this section and go over to vision.</p>
+<p>In this section, we're gonna talk about your vision for your career. And again, like all things that teal talks about is these are things that can iterate. It's not gonna be the only vision you ever write, but having this intentionality will help inform your decisions and reduce some of that pressure that some of these decisions may feel like they have, because you can iterate and we're taking this agile approach to career.</p>
+<p>So what is a vision? A vision is a clear and inspiring direction for your future that supports your values and motivations, right? It is that declaration around what the future could look like that supports your values and your motivations. This vision statement should be a lens by which you can. Past career decisions through that are moving you towards this destination.</p>
+<p>Again, the destination can change, cuz if you arrive there and stay there, you're gonna get bored and you're not gonna be fulfilled and you're not gonna be growing. So it is a moving target and it is a thing that will evolve, but you want to continue to work on it and work on it and get that clarity around where you want to.</p>
+<p>And so we've seen, and research has shown that if you've got goals that are easy to visualize, they can be perceived as more attainable versus goals that are hard to visualize. Then they're not gonna really feel attainable. And people will then just stop pursuing them because they'll feel too out of reach.</p>
+<p>So you wanna have this vision statement that feels attainable. You want it to stretch you and you wanna have a goal that pushes you, but you don't want it to feel so far that it's unattainable. And having a career vision will motivate you and will keep you engaged in your work because you're inching closer and closer to this thing that you're excited about and this vision that you've crafted for what your career could be.</p>
+<p>Now, once you start to get closer and you feel like it's within arms reach, then you can decide when you wanna revisit it. That might be when it's really far away or really close that's up to you. But having this destination that you continue to work towards will help you refine and crystallize your career decision making and what that growth can look like for you.</p>
+<p>And your vision will act as this powerful filter, cuz opportunities will present themselves and it'll allow you to be more strategic about your career rather than opportunistic. Now that's not to say that one is better than the other, but so many of us find ourselves in situations because the opportunities seem so good.</p>
+<p>And then we say how did I even arrive here? Cause we opportunity presented itself. And then we were like being. Guided by or pushed along. And didn't take a moment to pause and stop and say, wait, what do I want? How can I be deliberate about this future and this vision?</p>
+<p>So that's why having this vision for your career will really help you process career decisions to say, do they move you closer to your vision further away, and then maybe further in a positive way, so you can revisit your vision. And so think about it as this bidirectional cyclical process. It's about these iterations.</p>
+<p>And so what you wanna do is you want to imagine this ideal future and you want to have this intentionality, 1, 5, 10 years, maybe that helps you think about what it might be, but don't let it really distract you on that. It needs to be 10 years, right? Even six months is fine. It's about a destination and an intentionality about where you want to go.</p>
+<p>And so then you wanna think about what you're doing, how you're feeling. What are you proud of? What recognition are you getting? What are the experiences that you're having at a day at work? Because that's gonna help shape what you're excited about, what you're energized by and what you want to be doing.</p>
+<p>And so here's a few examples of some vision statements. I will become a well known and respected leader in the food industry to make healthier products, to help people live better. So that is speaking to some of my values that is speaking to a domain that I'm excited about, or I will become a leader in my organization helping transform it into an organization that respects all stakeholders while being a great father to my children.</p>
+<p>That for me, addresses my balance priorities that addresses my leadership priorities and then a people orient. And so your vision statement will crystallize your values, your motivations, and it will be this statement that you can continue to go back to, to help you make career decisions. So we'll end on the workbook and I won't go ahead and go and open it up cuz you've seen it, but now that you have done the values and the vision, and you've got your wise for each value, you can start to work on crafting that vision statement that is pulling from those things.</p>
+<p>And that includes it and becomes that guiding light for your career. All right. So with that, we'll go ahead and wrap up the class. All right. So that's the values and motivation class. Again, these are very core principles to how we think about our career decisions. And too many times we don't pause, take a beat and think about these things.</p>
+<p>They're just implicit. And we think they're there. And sometimes they're like the sand in the gears. If we're not aligned with them and they slow us down and they slowly build up and then we'll make these big decisions abruptly because we're not taking a pause to think about. What it is.</p>
+<p>We want our career to be what it is that we want to be doing. What are those values that we want to be experiencing and exercising on a daily basis so that our work excites us and energize us and continues our growth. All right. So we really recommend that you do these exercises and you think about your values again, whether it's a five.</p>
+<p>Accepting a promotion discussion or switching roles or a five month long journey, thinking about a career pivot, stopping and taking a beat and going through this explore phase, thinking about what you want to do is really important before you make those career decisions. And the more you have these documented and you maintain it, the easier those will.</p>
+<p>All right. So with that, we'll go ahead and wrap up the class.</p>
+</div>
+
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+</body>
+</html>
