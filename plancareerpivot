@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+.accordion:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+</style>
+</head>
+<body>
+
+
+<button class="accordion">Full Video Transcript</button>
+<div class="panel">
+<p>In this class, we're gonna talk about how to build your plan for managing your career shift. You can use it for other parts of your career, but really it's focused on putting some structure and rigor around planning, a career pivot, or a career shift. So with that, let's go ahead and. This class is gonna cover as usual, our approach, some of the key terms and some of the things we think about defining your shift, thinking about what kind of career pivot are you doing, and what's the magnitude of it, determining your goals.</p>
+<p>When are you looking to do this by creating your plan? And then we'll do a little bit of a wrap up like we always do. All right. So with that, let's go ahead and jump into the first section</p>
+<p>in this section. We're gonna talk about Teal's approach to making a career shift and how you think about doing it.</p>
+<p>We're gonna go back to our framework for fulfilling. Without having clarity on all four dimensions of what fulfilling work is for you. The shift is gonna be tricky and it's not gonna be as fruitful as you'd hope. So if you're in this class and you haven't done the styles, values, interests, and skills classes yet highly recommend that you go do those, have that documented, have some clarity.</p>
+<p>On that and then come back and watch this class. You can do 'em in whatever sequence you'd like, maybe this is helpful to help you think about your plan and then you go back and watch those. But definitely recommend that you go and watch those cuz that's gonna be where you want to go and sitting at the intersection of these to really get to that place of having fulfilling, meaningful work that you're excited to go to every day.</p>
+<p>One stress that careers, a non-line. Neither is the process. You can jump around, you can go try things. You can come back, think about your values. Go apply for some jobs, do some informational interviews. And so the decision making process is not linear as much as we'd love for it to be. And just say, Hey, here's the playbook.</p>
+<p>We want you to know that we've seen it hundreds and hundreds of times. And if you're feeling a little overwhelmed by the process, that's absolutely. We see it every day. And what we wanna try to do is help you have some structure and a framework, not necessarily a step by step playbook. If you follow the process and thinking about this iteratively, then these non-linear movements will feel a little more structured and will put you in control.</p>
+<p>We want you in the driver's seat of this process, and if you approach it with a growth mindset, it's gonna be that much more exciting. And what we mean by a growth mindset is. seeing the challenges as opportunities to learn a fixed mindset thinks of intelligence as static that you avoid challenges. You give up easy fear of failure.</p>
+<p>I can't do it. I'm not meant to do that. Where growth mindset is gonna embrace the challenges it's gonna persist in the face of setbacks. Learn from failure and reach higher levels of achieve. lots of research from Carol Dweck. Who's a child psychologist. Who's expanded this into the workplace to show that when you bring a growth mindset to work, your fulfillment goes way up because all these things that are challenges that pressure that you put on yourself to succeed, actually become opportunities to learn.</p>
+<p>And then that becomes exciting, cause we all wanna learn and we all want to grow. So if we approach things with that way and don't think about them as situations in which we might fail, but actually. Embrace that failure. And these are situations to learn and grow. Then the process becomes exciting and a career transition is that there's gonna be lots of bumps in the road.</p>
+<p>Lots of times you're gonna hit a wall. Think about that as a situation in which you got to learn, you got to learn about yourself. You got to learn about this career that you're thinking about pursuing. So growth mindset is really. and remember that passion is developed, not found you will get out. What you put in that is to say that the deeper you go into this process and the more that you explore occupations and the more that you test it and that you try it and you self initiate.</p>
+<p>The more you will learn if it's something that you're truly passionate about, is it a genuine interest or is it more of a superficial interest? The, I give an example all the time. I've said for literally 20 years that I wanna learn how to code and I still don't know how to code. I've probably done hundreds of hours of coding classes, but I've not taken on.</p>
+<p>That project that I tried to code from end to end. And so it's not like I'm watching my actions and the things that I do. I haven't developed that mastery. And so it's not a passion. It's a ni a, it's a topic that I'm fascinated by, but it's not a passion. My passion is this. This is actually when I think about my time and my energy and the things that I do, it's helping people grow their careers and showing them how to unlock potential with technology.</p>
+<p>That's a passion. And so think about the things that you do, monitor your actions, your behavior. Where you're spending your time hone in on that. And then those are gonna be the things that if you can do those on a day in and day out basis, they're gonna really charge you up and get you excited and fulfill you the kind of work that you're looking for.</p>
+<p>Let's define what kind of career shift you're looking to do. Some are pretty straightforward and not that heavy of a lift and others can be quite daunting. So let's go ahead and codify this to help you think about what you're doing. There's really three. Kinds of shifts. You can be doing an industry shift, a function shift, or both.</p>
+<p>Let me explain what that means. If you're doing an industry shift, that means you're keeping to the same occupation you are in sales. Let's call it retail, and you're gonna go do sales in medical you're sales in B2B SAS software, enterprise software. And you're gonna go do it in B2C consumer media, that is a different industry, but the function and the occupation and the craft remains the same. That's probably. The easiest career shift, you're still gonna have to make a case that you can pick up that industry. But the fact that, the craft, that's usually one of the easier shifts to make function becomes a little bit tricky.</p>
+<p>Let's call that one moderate difficulty, because you've got an industry domain. Maybe you were in retail and you were in supply chain. Now you want to go in retail over to merchandising, that's gonna be a little bit harder, but some companies really value that you've got the domain knowledge because they think that's very hard to pick up and that the functional abilities they can teach you or that you can learn on the job.</p>
+<p>And sometimes you might be able to do this within the same company. that's something to make sure you think about, cuz that might make it a little bit easier. If you can leverage your network. The good thing about functional is oftentimes you can use your network where an industry shift that might be a little trickier.</p>
+<p>And then the hardest is to do both to switch industry and to switch function. And when I say the hardest, that's not in any way to scare you from doing it. We just want you to prepare. We want you to know that you're gonna have to put in a little bit of extra work to make that case, but these happen.</p>
+<p>Every day, people make full on switches from industry and function, pick a whole new career. That's much more exciting for them and they don't regret it for a second. So know that you can do all three, but it is important for you to know which one you are picking. So you can prepare yourself for the amount of effort and energy that's gonna come along.</p>
+<p>Cause we don't want you to get discouraged in the process. So just know that some of these may be a little bit of a heavier lift than the. Looking at the career exploration process. Now this class really covers the end of that process. You're gonna start with your values and skills. You're gonna understand what's important to you, what you wanna be doing.</p>
+<p>Then you're gonna cycle through those options. Then you're gonna analyze those options. And now you're gonna make your plan, which is really what we're gonna cover in this class.</p>
+<p>In this section, we wanna talk about determining your goals. It's important that you state when, how, and what you want to do, goals will help you focus your effort.</p>
+<p>They'll keep you energized and they'll give you purpose too many times. People embark on this journey without a destination. They just say, I want to go somewhere. But they don't know by when, with who, what they wanna do, and then it can feel I can go on forever and that can really start to wear you down.</p>
+<p>Setting the goal can become overwhelming and scary because there's a chance you don't hit it, but that's absolutely okay. That's not failure. And what can lead to failure and perpetual discomfort is to not state these. You can always change them, but we highly recommend that you set goals. And there's a very simple framework for goals called smart.</p>
+<p>There's also lots of other goal setting frameworks, but we like this for a career shift. It's specific. So it can't be too broad. It's measurable, it's attainable, don't psych yourself out by doing something that you can't actually achieve because then you'll probably drop it. It's relevant. It ties to your intentionality and what you wanna do right now.</p>
+<p>And most important of all it's timed. If it's open-ended. Then there's no reason to ever get it done. So this is how you set a smart goal. And you want to think about the range in which you want to do them long term and short term. And you really want both because the long term will give you a little bit more of that north star.</p>
+<p>And the short term will give you these daily tactics and daily things that you want to be doing. So long term goal work and marketing for food related startup company that is mission driven and provides flexible work from home schedule. You wanna get there in a year. What are you gonna be doing day in and day out to get there?</p>
+<p>You're gonna connect and build relationships with 10 marketing professionals from. Food related startups, various stages in the next three months, right? Even better is that you set a date that you're gonna do this by now. You can start to give yourself daily goals, reach out to five people a week that might lead to one meeting a week over the course of three months.</p>
+<p>There you go. You'll have hit 10 professionals that you'll have networked. It's really important that you continue to go back to your why are you doing this? Cuz that's that intrinsic motivation on why this matters to you. So don't just set these goals for the sake of it. Dig deep. Are there aspects about what you're doing right now that are not exciting?</p>
+<p>You are there things that you want to be doing and that you want to get there sooner so that you can be fulfilled by your work faster? Always do that, go back to your why and be clear on why you do it because it's gonna help you. There's gonna be days you're gonna be exhausted. And it's like, why am I doing this?</p>
+<p>Cuz there's gonna be rejection. There's gonna be challenges along the way. But if you've got that, why, and you're clear on that end goal, you want, it's gonna be easier to get back up and keep making progress</p>
+<p>in this section. We're gonna talk about how to make your plan for managing your career shift.</p>
+<p>First, we wanna make sure that there isn't anything holding you back. When you embark on something large like this, there may be reasons for you not to do it. Oh, I'm missing that. Or I don't have that. So you wanna address these gaps from where you are and where you want to go. You wanna make sure that those gaps are well understood and documented?</p>
+<p>Are they knowledge, gaps? Are they skills gaps, or are they experience gaps? Because they're gonna prevent you from potentially reaching your goals. So the more you can document them, the more you can start to incorporate them into your plan. If it's knowledge, you can pick that up. You can read, you can start to volunt.</p>
+<p>If it's skills, you can start to take classes, do your own projects. And if it's experienced, you can start to build up that portfolio also through volunteering and different ways of attaining that experience to make progress. You want to keep yourself accountable by taking action, right? You wanna be doing things you wanna make progress.</p>
+<p>And little progress is fine every day, every week, one little bit. Cause if you're in the midst of a career shift and. Already busy. You're already doing a lot. It's tricky to find the time to do these. So you want to keep yourself accountable by creating action steps and the timeline that tee and the smart goals is the most important set that time by which you wanna achieve this and put yourself on a regular schedule.</p>
+<p>I. The action steps are going to tie to your long and short term goals. So here's that example of set up an informational interview with three of these connections to learn about their career journey, their day to day work and how they landed their jobs by the end of next week. And if you said I'm gonna do this every week again, in that three month cycle, you'll have reached that goal of 10.</p>
+<p>So think about. Inputs that you would do these action steps to help you achieve your goal with that, you can then start to form habits, right? Schedule one lunch club meeting. Every Monday, if you have, if you aren't familiar with lunch club, we talk about it in other classes, it's this great networking tool where you can meet people with similar objectives and they pair you and they handle everything.</p>
+<p>You could also reach out to your network. You can post them on LinkedIn, but you create that habit, that cycle of that repetitive behavior, and it's gonna help you achieve these goals. So here's a simple framework for how to create account. Implement a process that way you don't have to think about it every time, create a schedule, block out the time, identify obstacles.</p>
+<p>What are those blockers gonna be preempt them. Don't let them get in the way. Ask for help too many times. We see people say, I'm gonna do this on my own. There's no prizes for that. There's no extra fulfillment for having done it on your own. We wanna get to the destination. So reach out to your network and get the help.</p>
+<p>Track your progress. What gets measured gets managed, and then revisit your goals on a regularly basis. If it's monthly, quarterly, every six months, whatever works for you. But we think quarterly at a minimum will really help you get to that goal of making that career shift. And we can't recommend enough that you get in a routine and you set these measurable objectives, apply for five jobs.</p>
+<p>Every. Versus get an interview with my dream company, who knows when that's gonna happen. And that's not gonna give you that incremental progress. It's just too big and too far out and too vague, schedule one lunch club meeting per week, post or comment on LinkedIn daily for 12 weeks. These are things that you can every day you can check off that you've done and you will see they're gonna be compounding also because they're gonna start to trickle in over time.</p>
+<p>And before you know it, it's gonna feel like it's hitting on all cylinder. Create that schedule and block out the time. Otherwise life just takes your time. If the time is there, it will get taken. It'll get taken by activities with your family. It'll get taken by activities with work. It'll get taken by recreation.</p>
+<p>So block out the time is our most limited resource, and if we don't manage it, we lose it. So go ahead and block out that time to do this. Give yourself 10, 15 minutes a day, half an hour, a day. Get in that routine, cuz these things are all about you being proactive and you taking action too many times.</p>
+<p>Our career is just taken with the wind, but if you can get proactive, get in the driver's seat here, take control. You can start to see the outcomes that you're looking for. You're gonna want to take a pause and see if there's anything that might get in the way there's this great concept called a premortem, where you can try to predict what are the things that could go wrong so that you can then plan for the things that you could do.</p>
+<p>So think about the things that might get in the way work might get too busy. Life might take the best, get the best of me. So give yourself these preemptive plans for how to manage for those. So you're not caught on your heels and you can be on your toes. Ready to charge at. and address them if they come up and remember what gets measured gets managed.</p>
+<p>So track your progress. If you say, reach out to five people a week, jot it down, make yourself a spreadsheet, put it in a notebook, a bullet journal, whatever it is that works for you, keep track. Keep it real simple. Put it on your phone. Audio message it to yourself, text it to yourself. Find an accountability, buddy.</p>
+<p>What gets measured, gets managed. So track these on a regular basis and you will see you'll start to make progress and you'll start to get the outcomes you're looking for. We've built a little tool here for you to plan it, cuz making a transition like this. There's really no playbook for it, but we've got some general timelines that we've seen generally work for people.</p>
+<p>So let's go ahead and open this up so you can see how you can. All right. So when you go over to the tool section of the platform, you're gonna search for the career shift planner, and it's gonna give you this little Google sheets based template. And you've got two different ways that you can focus on it.</p>
+<p>You can focus on it by saying, when do you want to accomplish your career shift by. Or when do you want to start? And how long do you think it should take? And with those two dates and some assumptions on time per phase, then you build out this little plan. So we've got the phases, reflect ideate, research, decide, prepare, search, apply, interview, negotiate, and start that job.</p>
+<p>So the idea here. By when do I want to be in this new position, it can be for a new job. You already know how to do and it's a sort of linear growth on your path, or it can be for a whole new transition. And what we've done is we've put in generally understood Times in weeks, 11 weeks may be a little bit aggressive.</p>
+<p>Maybe you want it to take a little bit longer. And what you do is then you put in the date either you put it when you wanna start that new position. So this would be starting by May 1st, 2021. Or I'm starting on February 1st, 2021. And that would mean I end by four 19. You can choose either and you can change these durations.</p>
+<p>It's entirely up to you. And then you're gonna want to pick which one you wanna do. You just pick which one. So if you pick with the start date, so I'm gonna kick off my search on February 1st. That happens to be a Monday. All right. So I've got time to get that going. And it builds out a little Gantt chart for me.</p>
+<p>I would be in that position by four 19. And then if I go over to my planner, it's gonna build out those dates for me. And it's gonna show me if I'm on track. And what I'll do is I'll just fill out the days that I actually achieve it. Then I can stretch out my schedule, but I would go checking these off as they're done and I would keep notes and that just keeps me accountable and sets those dates.</p>
+<p>If you're a person that wants a little bit more detail, then we've got the shift task checklist. Per sort of activity bucket, then you can go in more granularly. You can say what date you want that done by assign them to yourself, and then you can track them as completed. And these dates will all automatically fill in for you from the plan builder.</p>
+<p>So this should help give you a framework, make that declaration on dates. Remember, you can change these. So don't be overwhelmed by making that declaration, but it's really helpful for yourself to set thatt in the smart goal. When do I want to do this by? All right. So that should really help you put some structure around your career shift and managing and planning how you're gonna run the process.</p>
+<p>Let's go ahead and jump back to the presentation. Like I've said a few times you can change your goals. That's not to say to do it. Willy-nilly cuz you wanna set them and you want them to be important, but don't fear setting them. What we see is too many times, people don't wanna set the goal cuz they're worried they won't hit it.</p>
+<p>So the main intent of saying this to you is that set the goal. And if you miss it, that just means you were trying really hard and you set too aggressive of a goal. That's okay. It's better to set, to do that than set goals that are so far away that you hit them or that you forget about them way early and you're not really pushing your.</p>
+<p>Think about the gym, no pain, no gain. If those muscles don't burn, you're not making progress. So push yourself. You wanna get this done? Cuz this is the kind of process. This is all about you pushing yourself. And if you don't put these goals in place, it could go on forever. And what we don't want is for you to continue in a job that's not fulfilling, not exciting for you.</p>
+<p>You're not charged up to go and nobody deserves to have to do that. There, it can be done that you can be in a job that's exciting and fulfilling, and the work energizes you. And that's what we wanna help you get to faster and better. So set those goals, but don't let them prevent you from embarking on this process.</p>
+<p>All right. So with that, we'll wrap up the class main thing we want you to take from this class is plan. Build yourself a plan. This process of managing a career shift or looking for a job is entirely up to you. Growing your career is something driven internally by you. Very rarely is about some kind of external forcing function, especially when we're pursuing fulfilling work.</p>
+<p>And it's not about work that we have to do. It's the work that we want to do. And the good thing about that is that work that we want to do is probably the work we're gonna be good at, which is gonna be the work that we're gonna be better paid for. And then you start the virtuous cycle. So this class is about putting that plan on paper, setting those goals, lining them.</p>
+<p>Knocking 'em down making that progress inch by inch and getting to that new, exciting career that you're excited about. All right. So with that, we'll go ahead and wrap up the class. Thanks for watching.</p>
+</div>
+
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+</body>
+</html>
