@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+.accordion:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+</style>
+</head>
+<body>
+
+
+<button class="accordion">Full Video Transcript</button>
+<div class="panel">
+
+<p>In this class, we're gonna focus on helping you identify your skills. And that may seem obvious, but a lot of times what we see with folks that are making a career transition or looking for growth is. They don't give themselves credit for the skills they have. So we're gonna go ahead and dive into what that process is like and how you can identify the skills, you have, and those that you might not know, you have the agenda's gonna cover our approach, how we think about it, how we think about skills and how we define them, then we're gonna talk about natural strengths.</p>
+<p>Some might call those talents. Acquired skills things you've learned. We're gonna help you uncover those skills. Cuz again, we all have these latent skills that maybe we don't realize are there. And then the energizers, which are the things that we're, we have an ability to do. We like doing, so we're gonna talk about how to identify those and then how to maybe grow that list of energizers with really our intention is to learn how to identify and document your natural strengths, acquired skills and energizers.</p>
+<p>All right. So with that, let's go ahead and jump into the class.</p>
+<p>In this section, we're gonna talk about our approach to thinking about skills. So first let's take a pause and think about the career exploration process and where this sits. First, we want to understand our values and our style, those things that are inherent to us, then our skills and our interests and the intersection of those two things.</p>
+<p>Then that allows us to explore career options and fit. We're gonna. What those options are, build the plan and then go get it. All right. So in this section, we're gonna focus on skills. And where that sits in the broader framework of fulfilling work is it's right. It's at the intersection of style value and skills.</p>
+<p>When they intersect with style, are those strengths and talents, those things that, we're pretty good at naturally. And then the skills and interests, the intersection of those is the energizers, the things that charge us up and get us excited. So that is how we think about skills. And again those things that are strengths that come natural and those energizers and our framework for thinking about skills are these natural strengths.</p>
+<p>That, again, talents things that come natural to us. These acquired skills, things that we've learned through experience or through deliberate practice. And then.</p>
+<p>Why skills matter is that they are the currency of careers because ultimately companies hire us for what we know, not what we want to know. And that doesn't mean that you can't pursue career opportunities, where you can expand your knowledge and growing, grow and learn on the job. In the moment of getting hired, we gotta make it clear to them that we've got these abilities because a company has a gap in abilities and that's why they're hiring us to fill it.</p>
+<p>So let's talk a little bit about how we understand that. And look here, right? This is a job description. And if you look at a job description, they are riddled with skills. It is a company saying we need growth marketing, analytical capabilities, just look for the word skill capabilities, knowledge of you will see that they are all over the place.</p>
+<p>And that is a company telling us you need to have these abilities. And that's why it's so important to go through the process of understanding your skills and exhaustively documenting all the skills you have. And most importantly, the ones that you take for granted, things that you just come naturally to you, that you just think, you know how to do, or you don't even give yourself credit for knowing how to do them.</p>
+<p>You wanna document them all, cuz all these skills are what's gonna enable us to get those opportunities that excite us. So as you plan your job search or your career transition, it's important that you identify what you know, and you gotta dig deep and do that. Self-advocacy here. Cuz a lot of us will approach these things with humility and say, yeah, we're not that good at that.</p>
+<p>Or you wanna list it all. You want to be your biggest champion. If you've watched our job searching classes, you'll hear us say that, you are a salesperson and your product is you. And so you gotta get comfortable understanding all those features of this product and these, those are your skills and your abilities.</p>
+<p>And so that's why we really wanna focus on skills and make sure we document them all. All right.</p>
+<p>So jumping into our first section on skills, which is natural strengths. Again, we might call those talents. We intentionally avoided that word cuz it's wishy washy. And so what are these natural strengths?</p>
+<p>These abilities that we're born with? So let's define what a strength is. It's an ability that comes natural to you. Some of us have a natural ability to draw, sing an ear for music. We might be more athletic and we might be good with numbers and they just come naturally. And that might be through nature nurture, but we've developed to a point that we're in our career.</p>
+<p>These things are easier than others, and these are strengths and we want to understand those and we want to lean into them as much as we can. Some of us have strengths that we have no interest in doing. And we'll talk about that in a little bit and energizers and drainers, but it's very important to understand these things that come naturally to.</p>
+<p>and our work style is really a great kind of compass for finding those cuz our work style will oftentimes tell us some of these things that come easy to us and it's a good way to find them. You may disagree with some of them because we're all. Different, but directionally some of these things that come natural are oftentimes the ones that we take for granted.</p>
+<p>So this is where the work style assessment and the 360 in the work style could be really helpful because you'll be able to more explicitly understand these skills that come easy. And especially in the 360, you'll be able to see it from others. And let's talk at a high level what you might be looking for based on your primary style.</p>
+<p>Remember that the ones and twos tend to get more energized from starting things and starting activities. The threes and fours tend to be more energized from finishing things and bringing things to complet. When we go to the other axes, the two and the three tend to have that higher people, orientation and pursuit of connect.</p>
+<p>And the ones and fours tend to have more of that result, orientation and pursuit of autonomy. Again, all these things are ands. It's very important for us that we continue to state that cuz we're all things, but some of them just might more naturally energize us and some of them may more naturally drain us.</p>
+<p>So if we look to our primary, that might tell us some of the things that come easy for. And so revisiting these, the primary one or our one trades, again, we all have all trades, but those one trades are going to come with straightforward communication, directness being decisive. And I won't read all these cuz you can download the PDF or pause the video and watch them.</p>
+<p>But to give you a sense of, what comes from that oneness the twoness is that connecting with people speaking. Getting people excited and leading with influence, those are gonna be abilities that, that come with that twoness, that threeness is gonna be where that patience and empathy comes from, being able to follow up and be available to help that responsiveness and that really good ability to listen that comes from that threeness.</p>
+<p>And then that foreignness is what helps us be analytical quality driven good with numbers. And structure and designing systems. Again, we're all of these. And maybe, through our course of life, we've developed some of these abilities, but the main thing we want here is for you to leverage your work style, to help surface things that you might take for granted.</p>
+<p>Cuz that's the tricky thing with natural strengths is because they're natural. We take 'em for granted and we don't value them as highly as others might. And so lean on your work style to help discover some of these natural strengths that you might have. Also really valuable here is the 360 made a reference to it earlier, but this is where we may have these blind spots that we don't understand that we're good at this.</p>
+<p>And so when you do the 360, you will see how others perceive you and. And how others see these to be your strengths and abilities. So really focus on those words on the right, the dimensions of the 360 and look at where people put you and see if there is clustering there that you didn't give yourself high mark on.</p>
+<p>That will tell you is that you do have these abilities and others do recognize them as strengths for you. And so now you wanna make sure you document those. And when you ultimately go and pursue these career opportunities, you bring those to the surface. If they're relevant to a.</p>
+<p>In this section, we're gonna talk about acquired skills.</p>
+<p>Now these are things that don't come naturally to us, and that we've picked up along the way. And the way that we define an acquired skill is an ability we've gained through learning, and that might be through deliberate practice, through experiences or through like formal education. But these are things that we've worked to learn and.</p>
+<p>And the way we start to find those is look at times you've documented your abilities. So go and get your resume and look at your achievements. Look at the things that you've written that you've said. Done. And now you can start to see these skills and they might be very granular or they might be more broad and strategic, but you wanna start to document these skills cause we wanna uncover and catalog every skill we have, right.</p>
+<p>That is the key thing here. And that might feel exhaustive, but these are all these features to the product of you. And you wanna understand them because when you need them to sell yourself, it's gonna be really valuable to have them document. And then you're also gonna be able to go through the process of understanding, which are the ones you actually enjoy doing and which ones you don't.</p>
+<p>It's important to recognize that a lot of us have these skills that we don't wanna use. And that's really important towards finding work that's fulfilling and energizing for us. So looking at the, what we would call, like the resolution of a skill, like the micro and the macro because you want to really document both.</p>
+<p>So a low resolution, meaning like broad, not fine. Sales design recruitment, right? Those are low resolution, high resolution, finer, more detail gets down to the tactic, the software that, the tool that you've learned, the technique that you've learned. And then we've got that middle that kind of sits in between.</p>
+<p>And. When you're looking at career opportunities, some companies are gonna talk about them in a high resolution, and some of 'em are gonna talk about them in a low resolution. There's a fairly high correlation to level of role. The more senior, the more low resolution, the more junior, probably the higher resolution, cuz they're gonna want very specific tools and tactics.</p>
+<p>And as you get more senior, you're gonna be able to talk about strategies more broadly. So you're gonna want to document them. In all forms and do it in a way that's comfortable to you. You may wanna start in the low resolution as these categories, or it may be easier to start in high resolution.</p>
+<p>Think about the tools that you know, how to use and techniques that you have. And then you can cluster them as you go through that process. With that, we'll wrap up the acquired skill sections. And hopefully that gives you a framework to how to think about your skills.</p>
+<p>In this section, we're gonna cover how to uncover your skills.</p>
+<p>I've made the reference a few times in some of the previous sections that we have, these skills that we take for granted. And we may not even know we have them and sometimes people will, have thoughts. It's ah, I don't know how to do that. Or I don't have that ability. So we want to take a little bit of time to help you think about skills you might have.</p>
+<p>And to help you realize that you've got these abilities that you maybe weren't giving yourself credit. So we all have more skills than we realize. We know how to do a lot of things and going through that process of introspection and giving ourselves credit for these abilities that we have is harder.</p>
+<p>It is sometimes tricky and it's that self-advocacy, and that self-promotion and bragging, which is uncomfortable, but this is a time to do it. And especially to yourself about yourself. And we want to. Think about times that we've done these things cuz again, you just may not be giving yourself your, that credit.</p>
+<p>We put on these career blinders because we've picked a career path, in my case I chose to study architecture and I really thought about the world through the lens of architecture, but we should look beyond that. Let's. Times in our life that we've done other things, going back to my example, somehow or another, I found myself being the tech guy for my whole family, because I liked it.</p>
+<p>And that was one of the things that told me, I really love technology. And I wanted to be in technology all the time. Now, did I wanna fix my mom's wifi? Not really. That didn't excite me, but there was indicators there for me. So what you wanna do. Is think about these times in your past that you've done things and that you were fulfilled and energized by it, and you developed these skills.</p>
+<p>So did you plan a big trip, in school or in any kind of professional organization? Do you jump towards planning these big things? Oh, you've got event planning and project management in your abilities. Were you part of a team or a club? Were you leading, were you organizing what subjects did you Excel at in school or what parts of subjects?</p>
+<p>Maybe there were certain categories of certain classes that you always did really good at. And then what have you been the go-to for? Going back to my example of, being the it guy for my family is like, people come to me for that, and now it's relative, can I go be a professional it person in a company?</p>
+<p>Probably not, but that is an ability I have. And in the right context, I might want to surface that and bring it up with people. So these are ways to help you reflect on your past and look at moments in your life where people were coming to you for things or you stepped up and did it. And you had these skills and abilities.</p>
+<p>Now we're not focused on whether you enjoyed it or not. Yet. What we wanna do is document all those abilities that we have. So let's look at an example of times that we might have done things in our profe, in our personal life that are actually abilities. As an example, say you've planned a wedding that is a complex series of events.</p>
+<p>So let's think about the skills that you gained in doing that. You've got planning and organizational skills thinking about where people are sitting next to each other, and you know how the all thing, the whole thing comes together. That's planning an organiz. Vendor vetting, that comes with a budget and thinking about which vendors you're gonna hire and getting.</p>
+<p>Then you're negotiating and you're, working down the pricing and putting it all together and then you're designing. Some of these, you may have outsourced, you may have leaned on your network to handle for, and for you or some of them, you might have done yourself and the ones that you did yourself and you feel like you've built that ability.</p>
+<p>Now, those are skills you should, and you should claim those skills and you should feel proud of the fact that you have those skills. You may not wanna say I acquired them in the context of wedding planning, but the fact that you have those skills and you got proof that you've done, it should give you the confidence to say, you've got these skills.</p>
+<p>I've made this reference a few times that when it comes to our skills, we may have these blind spots. Again, if you have an ability with things it's all relative and we tend to be our worst critic, sometimes you might say, yeah, I know how to do that, but I'm not that good at it. The truth is if you compare it to a true novice, maybe you're incredible at it.</p>
+<p>And time again, we've seen that self-evaluation. Is really tough because we don't have a context to benchmark two. So be generous with your skills. and ask others, cuz that's gonna be a way for us to know. You might ask somebody, Hey, what am I good at? And say you're really good at sales and wow, I would've never imagined that.</p>
+<p>I just like interacting with people. It's no you actually have quite a good ability to convince people to buy products that you really believe in. And so this is a way for you to learn about skills that you have, that you might not be giving yourself credit for. And when you ask people, you can ask them in this very specific way.</p>
+<p>And here's just some questions that you could email, or you can, talk to someone and ask them, what are three to five of my greatest skills? What do you think comes naturally to me? What do I know a lot about, what do you come to me for? Or what kind of work do you think aligns?</p>
+<p>With my skills, you can ask people you've worked with past managers, direct reports, colleagues, and these are gonna give you insights. A lot you might realize but others, you might discover things that you didn't know. You had, maybe you don't give yourself credit for being a great manager, but your team thinks you are.</p>
+<p>So this is a great way to go and unpack and discover these abilities that you.</p>
+<p>In this section, we're gonna talk about energizers, which sit at the intersection of a skill and an interest, and you're most likely gonna feel satisfied with your work when it's engaging you in things that you are both skilled at and enjoy.</p>
+<p>So that means it's an ability and an interest, and we're sitting at the intersection of those two. What we want you to do is think about where these skills sit in this matrix. You've got these two extremes is it a skill? Is it not? In other words, are you good at it or are you not? Then I want to do less of it, or I want to do more of it when you start to plot skills.</p>
+<p>On this matrix for yourself. It's gonna really tell you a lot about the kinds of things that you want to be doing. We then codify these four quadrants in this way, the things that are a skill, but that we don't wanna do more of, we call that an asset that is something there that you've got tucked away.</p>
+<p>That's got value and use it if you need. That's not to say to always do this, because then that's gonna drain you, but it is an asset and it has a value and we shouldn't devalue it. Then if we go down one, there's the things that we wanna do less of, and that we're not good at the more you can have clarity on these, the better, because these are gonna be the ones that set you up for failure.</p>
+<p>You're doing it. You don't enjoy it. And, you're not good at it. So you wanna speak up and be vocal about not doing these things and be mindful about where you're going and that those environments and those roles and those jobs are not gonna present these situations where you have to do things that you don't like doing.</p>
+<p>And that you're not good at. Next is potentials. These are things that you want to do more. But are not a skill yet. So you've got an interest. You are curious about pursuing it, but you don't really have that ability yet. So we call those potentials because. As you go filling in that ability and move them up.</p>
+<p>Now these are energizers because you've got that mastery. And so we like to be mindful about what these potentials can be, because sometimes it's tricky to get hired for potentials, but as soon as we have that mastery, then they can go over to an Energizer. And then energizers, right? These are really the ones we want to focus on.</p>
+<p>It's those things that we like doing, we want to do more of, and that we're already good at and we can get better. So it's doubling down on our strengths that we enjoy and that are interesting to us, and those tend to energize us. And that really creates this virtuous cycle of doing the things we're good.</p>
+<p>Then by getting to do more of it, we get better at it. And that becomes a compounding, career Energizer. And these are really important and you can move things into that category assets. Sometimes if you recontextualize it might actually be an Energizer. And those potentials as you build up those skills and you get opportunities to practice and build them well, then they become energizers.</p>
+<p>And we really wanna move things up into that top right quadrant. We've built a tool to help you start to understand this and to document all those skills with a bunch of prepopulated skills. But, there are hundreds of thousands of skills in the various skills databases out there. So obviously you can add your own.</p>
+<p>So let's go ahead and pop, open this workbook and take a look at how to use it. All right. So we're here in the workbook. It's a Google sheet. You can download it and make a copy or open it up and Excel. And what you wanna look at is there's three tabs here. There is the skills, identifier template, the skills, database template, and then the, my skills list template.</p>
+<p>And you'll be able to use these from scratch, and fill them out. But let's go ahead and look at the examples so you can see how they work. And the skills database is probably where you wanna start. We've got a long list of skills, and then you can just go check on and off the ones that you want to include.</p>
+<p>You wanna be mindful of which ones are your current skills and which ones are your potentials. So these are things you want to learn that you're excited about. And these are the ones that you already have an ability we didn't get too focused on how good of an ability you have. Are are you a master at it?</p>
+<p>Are you a novice? Cause that matters honestly, a little bit less. That's more for you to manage and develop that mastery, but what are the ones you want to learn and have an ambition for? Those are on this side and it's the same skill. Just allows you to check it here. So go in and exhaustively, check off all the things you're excited about.</p>
+<p>What that's gonna do is then populate your skills. And these are gonna be the ones from the skills database. If there's things that we're missing or you don't want to go through that whole list, you can just write in your own. Then, what you're gonna start to do is rate if you wanna do more or less of it, and that's gonna put it on that a axis of more or less, I want to do it.</p>
+<p>Don't want to do it. You can then identify all the skills that you have and all these potentials. Again, you can either use the database or you can fill them in your own, and you can start to fill in the other parts of the workbook to find these other skills. What are those things that come from your work style?</p>
+<p>What are some that you could have pulled from your resume? What are some feedback you got from other people and what might be some of those other skills then once you have. You can go to the, my skills list example. And what it's gonna do is it's gonna pull out the things that are energizers, potentials and assets, because it's gonna do that cross referencing of the skills you have, the skills you wanna have, and those that you wanna do more of, and those that you wanna do less of what's not documented as on, on here is the drainers, because let's not waste time on those.</p>
+<p>So we don't list them out, but. Going through this workbook should help you get a better understanding of what your energizers are, what those potentials are and what those assets are that you have, that you can lean on in the future, for potential career opportunities, cuz like we've said, companies wanna hire you for what you did, not what you wanna do.</p>
+<p>So know that you have these assets and that you can leverage them, but that, you slowly but surely want to take them out of your day to day, because they're not that in that energizing category. All right. So with that, we will jump back over to the presentation and look at another very cool tool.</p>
+<p>Another tool that we highly recommend for looking at career possibilities and you're exploring your skills is on LinkedIn. It's called a career Explorer and it's focused on occupations and the different kinds of skills. They looked at a ton of LinkedIn profiles. I don't know if it was all of them or some subset.</p>
+<p>They go by person and then they can see what are the skills needed for an occupation. So if you go to some of the titles you've had, and the roles that you've had that might list out skills for you. And show you skills that you have, and just, maybe you haven't documented, then you can start to add them to your profile.</p>
+<p>You can either add them on LinkedIn or add them in this workbook so that you have it for yourself, but it's a really great powerful tool. And again, it'll surface tools. It, and really the point of this is being. Exhaustive about documenting all these skills you have, because they're gonna help you explore potentials and see which career opportunities, your skills map.</p>
+<p>To all right. So with that, we'll go ahead and wrap up this section.</p>
+<p>All right. So that does it for the identifying my skills class. And honestly, this is one of my favorite classes we have, because so many times we're hard on ourselves and we might say, ah, I don't know what skills I have, but when you go through this process, you really.</p>
+<p>Get to boost yourself up and see all these abilities you have that maybe you didn't realize you had a, and we are all just this wealth of experiences and things that we've done and they can all be recontextualized in these very cool ways. Again, if you. Planned a wedding you can project manage. You may not have a project management certification, but you can manage things from start to finish and get them done on time and on budget.</p>
+<p>And so we really want to think about these times in our life and the activities that we've done that surface these skills to us, because those are, what's gonna make us marketable. The ones that we wanna do are gonna be the ones that charge us up and get us energized about our work and move us closer to that fulfilling career that we're all after.</p>
+<p>And with that, we'll go ahead and wrap up the class.</p>
+
+</div>
+
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+</body>
+</html>
